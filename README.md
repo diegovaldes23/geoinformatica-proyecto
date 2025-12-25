@@ -6,3 +6,4 @@
 3. Nicolas Aguilera
 4. Joaquin Saldivia
 5. Byron Gracia
+6. Diego Valdés
