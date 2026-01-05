@@ -1,4 +1,7 @@
 🚀 Ejecución rápida del proyecto
+0. Descargar datos desde google drive y moverlos a /proyecto/data
+https://drive.google.com/drive/folders/10mLo1jZQksO4mc47GPWjc2wClPtUp1VQ?usp=sharing
+
 1. Apagar contenedores
 docker compose down
 
